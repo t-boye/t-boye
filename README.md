@@ -1,11 +1,15 @@
-<b><h1 align="center">Welcome to Emmanuel Tete Boye's Github Profile! Emmanuel Tete Boye</h1></b>
+<b><h1 align="center">Welcome to Emmanuel Tete Boye's Github Profile!</b>
 <h3 align="center">I'm Emmanuel Tete Boye a Ghanaian web developer and computer science student who is passionate about creating dynamic and user-friendly websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-boye&label=Profile%20views&color=0e75b6&style=flat" alt="t-boye" /> </p>
 
-<p align="left"> <a href="https://twitter.com/boyetete" target="blank"><img src="https://img.shields.io/twitter/follow/boyetete?logo=twitter&style=for-the-badge" alt="boyetete" /></a> </p>
+
 
 - 💬 Ask me about **programming tutorials**
+
+- 💬 Ask me about **programming updates**
+
+- 💬 Ask me about **about collaboration**
 
 - 📫 How to reach me **emmanuelboye1957@gmail.com**
 
@@ -24,5 +28,4 @@ Twitter: Emmanuel Tete Boye<a href="https://twitter.com/boyetete" target="blank"
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t-boye&show_icons=true&locale=en" alt="t-boye" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t-boye&" alt="t-boye" /></p>
 <p>Thanks for visiting my profile! Feel free to reach out if you have any questions or if you're interested in working together.</p>
