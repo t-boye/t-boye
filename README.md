@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Emmanuel Tete Boye's Github Profile! Emmanuel Tete Boye</h1>
+<b><h1 align="center">Welcome to Emmanuel Tete Boye's Github Profile! Emmanuel Tete Boye</h1></b>
 <h3 align="center">I'm Emmanuel Tete Boye a Ghanaian web developer and computer science student who is passionate about creating dynamic and user-friendly websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-boye&label=Profile%20views&color=0e75b6&style=flat" alt="t-boye" /> </p>
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/boyetete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="boyetete" height="30" width="40" /></a>
+Twitter: Emmanuel Tete Boye<a href="https://twitter.com/boyetete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="boyetete" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emmanuel-tete-boye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel-tete-boye" height="30" width="40" /></a>
 <a href="https://instagram.com/tboye_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tboye_official" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/updated_news tv, tboye broadcast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="updated_news tv, tboye broadcast" height="30" width="40" /></a>
@@ -25,4 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t-boye&show_icons=true&locale=en" alt="t-boye" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t-boye&" alt="t-boye" /></p>
-
+<p>Thanks for visiting my profile! Feel free to reach out if you have any questions or if you're interested in working together.</p>
