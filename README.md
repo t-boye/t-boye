@@ -38,7 +38,7 @@ I'm Emmanuel Tete Boye, a web developer and computer science student who is pass
 
 ## Git profile Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t-boye&layout=compact&theme=algolia" alt="Tboye_Official" /></a> </p>
+<p align="left"> <a href="https://github.com/t-boye/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t-boye&layout=compact&theme=algolia" alt="Tboye_Official" /></a> </p>
 -----
 Credits: [Tboye_Official](https://github.com/t-boye)
 
