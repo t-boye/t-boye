@@ -4,7 +4,7 @@
 
 I'm Emmanuel Tete Boye, a web developer and computer science student who is passionate about creating dynamic and user-friendly websites.
 
-- 💬 **Ask me about **programming tutorials**, 
+- 💬**Ask me about programming tutorials**, 
 - 💬**programming updates**
 - 💬**and lastly ask for collaboration**
 - 📫 How to reach me: **emmanuelboye1957@gmail.com** or Tel: **(+233) 593501488**
