@@ -6,7 +6,7 @@ Hi there, I'm Emmanuel Tete Boye - a web developer and computer science student 
 - 🌱 I’m currently learning React.js and Node.js
 - 👯 I’m looking to collaborate on exciting web development projects
 - 💬 Ask me about programming tutorials, programming updates and collaborations
-- 📫 How to reach me: emmanuelboye1957@gmail.com or Tel: (+233) 593501488
+- 📫 How to reach me: emmanuelboye1957@gmail.com or Tel: (+233) 593 501 488
 
 
 
