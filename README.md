@@ -1,4 +1,4 @@
-Welcome to Emmanuel Tete Boye's GitHub Profile!
+# Welcome to Emmanuel Tete Boye's GitHub Profile!
 
 Greetings! I'm Emmanuel Tete Boye(Tboye), an enthusiast in the realm of web development and a computer science student. My ardor extends beyond coding into the realms of entertainment and technology, as I venture into content creation that spans a diverse array of subjects
 
