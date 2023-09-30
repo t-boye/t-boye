@@ -7,7 +7,7 @@ Greetings! I'm Emmanuel Tete Boye(Tboye), an enthusiast in the realm of web deve
 - 🌱 I’m currently learning React.js and Node.js
 - 👯 I’m looking to collaborate on exciting web development projects
 - 💬 Ask me about programming tutorials, programming updates and collaborations
-- 📫 How to reach me: emmanuelboye1957@gmail.com or Tel: (+233) 593 501 488
+- 📫 How to reach me: emmanuelboye1957@gmail.com
 
 
 
