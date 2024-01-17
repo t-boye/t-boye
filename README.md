@@ -1,6 +1,8 @@
-# Welcome to Emmanuel Tete Boye's GitHub Profile!
+<h1 align="center">Hi 👋, I'm Emmanuel Tete Boye</h1>
 
-Greetings! I'm Emmanuel Tete Boye(Tboye), an enthusiast in the realm of web development and a computer science student. My ardor extends beyond coding into the realms of entertainment and technology, as I venture into content creation that spans a diverse array of subjects
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Welcome+To+My+Profile;I'm+a+Frontend+Developer)
+
+Greetings! Tboye, an enthusiast in the realm of web development and a computer science student. My ardor extends beyond coding into the realms of entertainment and technology, as I venture into content creation that spans a diverse array of subjects
 
 ## About Me
 - 🔭 I’m currently working on improving my programming skills and contributing to open-source projects
