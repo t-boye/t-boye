@@ -1,71 +1,113 @@
-<h1 align="center">👋 Hi, I'm Emmanuel Tete Boye</h1>
-<h3 align="center">Frontend Engineer | ReactJS Specialist</h3>
+<h1 align="center">👋 Hey there, I'm Emmanuel Tete Boye</h1>
+<h3 align="center">Fullstack Developer | Multimedia Designer | ReactJS Specialist</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=3DA37A&center=true&vCenter=true&width=600&lines=Welcome+To+My+Profile;Passionate+Frontend+Developer;Clean+Code+Advocate;UI%2FUX+Enthusiast" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=3DA37A&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+space;Crafting+digital+experiences;Where+code+meets+creativity;Turning+ideas+into+interactive+reality" alt="Typing animation" />
 </div>
+
+<p align="center">
+  <a href="https://github.com/t-boye?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/t-boye?color=green&logo=github">
+  </a>
+  <a href="https://github.com/t-boye?tab=repositories">
+    <img alt="Repositories" src="https://img.shields.io/badge/Repos-10+-blue?logo=github">
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🌱 I’m always learning and growing in the frontend development world
-- 👯 I’m looking to collaborate on impactful and innovative web projects
-- 💬 Ask me about React, UI/UX, and frontend best practices
-- 📫 Reach me at: **emmanuelboye1957@gmail.com**
-  
-<hr />
-🔥 Programming Languages:  JavaScript | Python
+I'm a passionate **Fullstack Developer** and **Multimedia Designer** with a knack for creating intuitive, performant, and visually stunning digital experiences. With 3+ years specializing in **ReactJS**, I bridge the gap between technical implementation and creative design to deliver solutions that users love.
 
-🛠 Technology:  ReactJS | Flask
+🔭 **Currently:** Building AI-powered web applications with React & Node.js  
+🌱 **Learning:** Three.js for 3D web experiences & WebAssembly  
+🎨 **Design Philosophy:** "Simplicity is the ultimate sophistication" - Leonardo da Vinci  
+☕ **Fun Fact:** I can estimate the perfect coffee-to-code ratio for any project  
 
-🚀 Libraries & Frameworks: React | Tailwind CSS 
+### My Development Principles:
+- 🧩 Component-driven architecture
+- 🚀 Performance optimization
+- 🔐 Security-first approach
+- 🎯 User-centric design
+- 🤝 Clean, maintainable code
 
-🗣 Database Management: MongoDB | MySQL | PostgreSQL | Firebase | 
+---
 
-💻 Operating Systems: Windows 
+## 🛠️ Tech Stack & Tools
 
-🎯 Version Control: | Git 
-
-💡 Developer tools: | GitHub | Slack 
-
-📊 Software Development Methodologies: | Agile 
-
-<hr />
-
-# 💻 Tech Stack:
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Frontend Technologies
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Frontend Mastery
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
 
 ### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-<hr />
+### Design & Multimedia
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=black" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=black" alt="Premiere Pro" />
+</p>
+
+### DevOps & Testing
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
+</p>
+
+---
+
+## 🏆 GitHub Stats & Achievements
+
+<div align="left">
+  
+  ![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-boye&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t-boye&layout=compact&theme=radical&langs_count=6)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=t-boye&theme=radical)
+  
+  ![Trophy Case](https://github-profile-trophy.vercel.app/?username=t-boye&theme=radical&margin-w=15&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+  
+</div>
+
+---
+
+## 🤝 Let's Collaborate!
+I'm always open to interesting projects and discussions. Whether you want to:
+- 💡 Brainstorm an idea
+- 🤝 Partner on a project
+- 💼 Offer me a job opportunity
+- ☕ Just chat about tech and design
+
+<p align="left">
+  <a href="mailto:emmanuelboye1957@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="[https://linkedin.com/in/your_profile](https://www.linkedin.com/in/tboyeofficial/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=t-boye&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
