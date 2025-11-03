@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Emmanuel Tete Boye</h1>
-<h3 align="center">Fullstack Developer | Multimedia Designer | ReactJS Specialist</h3>
+<h3 align="center">Software Developer | ReactJS Specialist | Creative Director</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=3DA37A&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+space;Crafting+digital+experiences;Where+code+meets+creativity;Turning+ideas+into+interactive+reality" alt="Typing animation" />
@@ -17,7 +17,7 @@
 ---
 
 ## 👨‍💻 About Me
-I'm a passionate **Fullstack Developer** and **Multimedia Designer** with a knack for creating intuitive, performant, and visually stunning digital experiences. With 3+ years specializing in **ReactJS**, I bridge the gap between technical implementation and creative design to deliver solutions that users love.
+I'm a passionate **Software Developer** and **Creative Director** with a knack for creating intuitive, performant, and visually stunning digital experiences. With 3+ years specializing in **ReactJS**, I bridge the gap between technical implementation and creative design to deliver solutions that users love.
 
 🔭 **Currently:** Building AI-powered web applications with React & Node.js  
 🌱 **Learning:** Three.js for 3D web experiences & WebAssembly  
