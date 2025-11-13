@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 I'm a passionate **Software Developer** and **Creative Director** with a knack for creating intuitive, performant, and visually stunning digital experiences. With 3+ years specializing in **ReactJS**, I bridge the gap between technical implementation and creative design to deliver solutions that users love.
 
-🔭 **Currently:** Building AI-powered web applications with React & Node.js  
+🔭 **Currently:** Building AI-powered web applications with React & Python
 🌱 **Learning:** Three.js for 3D web experiences & WebAssembly  
 🎨 **Design Philosophy:** "Simplicity is the ultimate sophistication" - Leonardo da Vinci  
 ☕ **Fun Fact:** I can estimate the perfect coffee-to-code ratio for any project  
