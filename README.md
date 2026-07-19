@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | React Specialist | Creative Director</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=3DA37A&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+space;Crafting+digital+experiences;Where+code+meets+creativity;Turning+ideas+into+interactive+reality" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=3DA37A&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+space;Crafting+digital+experiences;Where+code+meets+creativity;Turning+ideas+into+interactive+reality" alt="Typing animation" />
 </div>
 
 <p align="center">
@@ -10,7 +10,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/t-boye?color=green&logo=github">
   </a>
   <a href="https://github.com/t-boye?tab=repositories">
-    <img alt="Repositories" src="https://img.shields.io/badge/Repos-10+-blue?logo=github">
+    <img alt="Repositories" src="https://img.shields.io/badge/Repos-37+-blue?logo=github">
   </a>
 </p>
 
@@ -87,7 +87,7 @@ I'm a passionate **Software Developer** and **Creative Director** with a knack f
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t-boye&layout=compact&theme=radical&langs_count=6)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=t-boye&theme=radical)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=t-boye&theme=radical)
   
   ![Trophy Case](https://github-profile-trophy.vercel.app/?username=t-boye&theme=radical&margin-w=15&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
   
