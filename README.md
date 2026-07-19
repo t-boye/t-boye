@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 I'm a passionate **Software Developer** and **Creative Director** with a knack for creating intuitive, performant, and visually stunning digital experiences. I bridge the gap between technical implementation and creative design to deliver solutions that users love.
 
-🔭 **Currently:** Building AI-powered web applications and SaaS Projects </br>
+🔭 **Currently:** Building [Klaro](https://github.com/t-boye/klaro-frontend) — an AI-powered legal document explainer for Africa (9 countries, 10 languages)</br>
 🎨 **Design Philosophy:** "Simplicity is the ultimate sophistication" - Leonardo da Vinci  
 ☕ **Fun Fact:** I can estimate the perfect coffee-to-code ratio for any project  
 
@@ -29,6 +29,16 @@ I'm a passionate **Software Developer** and **Creative Director** with a knack f
 - 🔐 Security-first approach
 - 🎯 User-centric design
 - 🤝 Clean, maintainable code
+
+---
+
+## 🌟 Featured Project
+
+<a href="https://github.com/t-boye/klaro-frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=t-boye&repo=klaro-frontend&theme=radical&description_lines_count=2" />
+</a>
+
+> **Klaro** — Upload any legal document (contract, tenancy, loan form) and get every clause explained in plain language, rated RED / YELLOW / GREEN, in your local language. Available across Ghana, Nigeria, South Africa, Kenya, Rwanda, Côte d'Ivoire, Senegal, Egypt & Tanzania.
 
 ---
 
@@ -55,15 +65,16 @@ I'm a passionate **Software Developer** and **Creative Director** with a knack f
 
 ### Design & Multimedia
 <p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=black" alt="Premiere Pro" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=black" alt="Premiere Pro" />
 </p>
 
 ### DevOps & Testing
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 </p>
 
 ---
@@ -95,7 +106,7 @@ I'm always open to interesting projects and discussions. Whether you want to:
   <a href="mailto:emmanuelboye1957@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[https://linkedin.com/in/your_profile](https://www.linkedin.com/in/tboyeofficial/)">
+  <a href="https://www.linkedin.com/in/tboyeofficial/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
